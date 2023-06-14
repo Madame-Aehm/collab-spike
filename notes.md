@@ -4,17 +4,19 @@ Let's create a project [together](https://medium.com/@jonathanmines/the-ultimate
 
 - I will create a new Project and initalize a GitHub repo. Commit, Stage, Publish. 
 
+- If I make a change remotely, my local copy is now behind. I can **synchronise** my local copy with the remote repo in the source control using the 🔁 symbol, or by running the command `git pull`. 
+
 - In Remote repo settings, I will manage access and invite all collaborators. Send me your GitHub usernames!
 
 - You should receive an email, please accept my invitation to collaborate. 
 
 - Now make a local clone of the repo. The green button **Code** will give you a link that you can copy. Run the command `git clone <link you copied>`.
 
-- Right now you are on the main branch. If I make a changes and push to the main branch, your local branch is now out of date. You can **synchronise** your local copy with the remote repo in the source control using the 🔁 symbol, or by running the command `git pull`. Do one of these now, and view the change I made.
+- Right now you are on the main branch. If I make a change and push to the main branch, your local branch is now out of date. Run the same `git pull` command that I did to see the updates appear locally. 
 
-- I will now create some **Issues**. When I assign you an issue, you will receive an email. This functionality is free for everyone to use - anyone can create a new issue and assign it to themself or a fellow collaborator. 
+- I will now create some **Issues**. When I assign you an issue, you will receive an email. This functionality is free for everyone to use - anyone can create a new issue and assign it to themself or a fellow collaborator. Pair up and create and assign an issue to your buddy - they will do the same for you in return.
 
-- To work on your issue, create a branch. Give it a name that includes the issue # so we know what you're working on. VSCode usually automatically moves you to that branch, but you can check which branch you are on at the bottom left corner. If you want to change, either click there and then select the branch from the drop-down that appears. Alternatively, you can use the command `git checkout ` and then the branch name. 
+- To work on your issue, create a branch. Give it a name that includes the issue # so we know what you're working on. VSCode usually automatically moves you to that branch, but you can check which branch you are on at the bottom left corner. If you want to change, either click there and then select the branch from the drop-down that appears. Alternatively, you can use the command `git checkout <branch name>`. 
 
 - Publish your branch. Make your changes, making sure any commits you make also include the issue # together with your comment. Now push your commits. 
 
